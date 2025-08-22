@@ -1,0 +1,15 @@
+# env files
+.env
+.env.local
+/env/
+*.env
+
+# django pycache
+__pycache__/
+*.pyc
+
+# node modules
+node_modules/
+
+# django migrations
+migrations/
