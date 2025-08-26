@@ -1,9 +1,9 @@
 import './App.css'
-
+import ScholarSearch from './components/ScholarSearch'
 function App() {
   return (
     <>
-      <div>Hello Vite + React!</div>
+      <ScholarSearch />
     </>
   )
 }
