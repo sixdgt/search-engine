@@ -13,3 +13,11 @@ node_modules/
 
 # django migrations
 migrations/
+
+# docker files
+docker-compose.yml
+/backend/Dockerfile
+/frontend/Dockerfile
+
+# settings files
+/backend/backend/settings.py
